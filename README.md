@@ -14,11 +14,11 @@ The **SF1 Production Schedule Dashboard** was developed to provide a clear, real
 ---
 
 ## Project Benefits
-- 📊 **Improved Production Planning:** Provides real-time workloads and readiness status for better decision-making.  
-- 💬 **Enhanced Communication:** Improves collaboration between Prepress, Production, and Scheduling teams.  
-- ⚡ **Increased Efficiency:** Enables proactive resource allocation and workload balancing.  
-- 📈 **Data-Driven Decisions:** Supports operational reviews with historical and forward-looking scheduling insights.  
-- ✅ **Transparency & Accountability:** Tracks job status, readiness, and due dates across the organization.  
+- **Improved Production Planning:** Provides real-time workloads and readiness status for better decision-making.  
+- **Enhanced Communication:** Improves collaboration between Prepress, Production, and Scheduling teams.  
+- **Increased Efficiency:** Enables proactive resource allocation and workload balancing.  
+- **Data-Driven Decisions:** Supports operational reviews with historical and forward-looking scheduling insights.  
+- **Transparency & Accountability:** Tracks job status, readiness, and due dates across the organization.  
 
 ---
 
