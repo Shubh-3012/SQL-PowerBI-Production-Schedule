@@ -39,9 +39,9 @@ The **SF1 Production Schedule Dashboard** was developed to provide a clear, real
 2. **Detailed Job View:**  
    - Data table listing all jobs assigned to the press.  
    - Bar graph showing hours (X-axis) by due date (Y-axis), color-coded by staging code:  
-     - 🟡 Pre → Not ready for press  
-     - 🟢 Ready → Ready to run  
-     - 🔵 Post → Post-press staging  
+     - Pre → Not ready for press  
+     - Ready → Ready to run  
+     - Post → Post-press staging  
 
 ---
 
