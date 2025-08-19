@@ -54,16 +54,15 @@ The **SF1 Production Schedule Dashboard** was developed to provide a clear, real
 
 ## Project Rationale
 Production scheduling is a critical function in a multi-press environment. Prior to this dashboard, visibility into job distribution, press readiness, and bottlenecks was limited and fragmented.  
+The **SF1 Production Schedule Dashboard** addresses these gaps by:  
+- Providing a centralized, interactive view of job schedules and workloads.  
+- Identifying and resolving imbalances or readiness delays before they affect delivery.  
+- Supporting strategic goals to reduce turnaround time, minimize idle press time, and enhance output.
 
 ---
 
 ## Dashboard Preview
 To see a sample of the Power BI dashboard, view the [PDF export](SF1_Production_Schedule_Dashboard.pdf).
-
-The **SF1 Production Schedule Dashboard** addresses these gaps by:  
-- Providing a centralized, interactive view of job schedules and workloads.  
-- Identifying and resolving imbalances or readiness delays before they affect delivery.  
-- Supporting strategic goals to reduce turnaround time, minimize idle press time, and enhance output.  
 
 ---
 
